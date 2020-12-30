@@ -25,4 +25,4 @@ public class LeagueInvaders {
 		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		f.addKeyListener(panel);
 	}
-}
+} 
